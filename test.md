@@ -4,3 +4,4 @@
 *git commit -m "text"* or *git commit*  open text 
 # добавление ветки
 *git checkout -b name_branch*
+# добавление ветки в git hub
