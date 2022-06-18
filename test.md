@@ -8,4 +8,5 @@
 *correct __true__*
 # добавление ветки в git hub
 *git push origin name_branch*
-
+# удалить удаленную ветку
+*git push --delete origin existing_branch* 
