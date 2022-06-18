@@ -5,3 +5,4 @@
 # добавление ветки
 *git checkout -b name_branch*
 # добавление ветки в git hub
+*git push origin name_branch*
